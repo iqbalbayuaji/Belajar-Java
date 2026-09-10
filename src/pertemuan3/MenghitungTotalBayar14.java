@@ -13,7 +13,7 @@ public class MenghitungTotalBayar14 {
         double diskon=0.15;
 
         System.out.println("Masukkan harga barang : ");
-        harga=iqbal.nextInt();
+        harga=iqbal.nextDouble();
 
         potongan=diskon*harga;
         jml_bayar=harga-potongan;
