@@ -20,9 +20,10 @@ public class Tugas1_14 {
         cicilBulanan = iqbal.nextInt();
 
         int sisa_pokok = hargaKredit - uangMuka;
-        double cicilan_pokok = (double) sisa_pokok / cicilBulanan; 
-        double cicilan_bunga = sisa_pokok * bunga;
+        double cicilan_pokok = sisa_pokok / cicilBulanan; 
+        double cicilan_bunga = cicilan_pokok * bunga;
         double cicilan_per_bulan = cicilan_pokok + cicilan_bunga;
+
 
         System.out.println("Jumlah cicilan yang harus dibayar per bulan : " + cicilan_per_bulan);
         
