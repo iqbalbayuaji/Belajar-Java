@@ -35,7 +35,7 @@ public class tugas1DiskonBuku {
                 diskon = 0;
             }
         }
-        System.out.println(diskon);
+        System.out.println("Total Diskon : " + diskon + "%");
         iqbal.close();
     }    
 }
