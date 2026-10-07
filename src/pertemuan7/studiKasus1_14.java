@@ -7,7 +7,7 @@ public class studiKasus1_14 {
     public static void main(String[] args) {
         Scanner iqbal = new Scanner(System.in);
 
-        int hargaPerCup = 18000;
+        int hargaPerCup = 17000;
         int jumlahCup;
         int uangBayar;
         int totalHarga;
@@ -24,8 +24,8 @@ public class studiKasus1_14 {
         totalHarga = hargaPerCup * jumlahCup;
         diskon = 0;
 
-        if (totalHarga >= 100000) {
-            diskon = totalHarga * 10/100;
+        if (totalHarga >= 48000) {
+            diskon = totalHarga * 7/100;
         }
 
         totalBayar = totalHarga - diskon;
