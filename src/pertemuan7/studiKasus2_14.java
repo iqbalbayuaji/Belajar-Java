@@ -35,7 +35,20 @@ public class studiKasus2_14 {
             } else {
                 System.out.println("Status : Peringkat lomba tidak sesuai. Dana penghargaan tidak diberikan");
             }
-        } 
+        } else if (Kegiatan.equalsIgnoreCase("PKM")) {
+                    System.out.print("Masukan Status Pendanaan PKM : ");
+            statusPendanaan = iqbal.nextInt();
+            if (statusPendanaan == 1) {
+                if (jmlDokumen == 4) {
+                    System.out.println("Status : Memperoleh Dana Penghargaan");
+                } else {
+                    int dokumenKurang = 4 - jmlDokumen;
+                    System.out.printf("Status : Dokumen tidak lengkap (kurang %d dokumen). Dana penghargaan tidak diberikan", dokumenKurang);
+                }
+            } else {
+                System.out.println("Status : Tidak memperoleh pendanaan PKM. Dana penghargaan tidak diberikan");
+            }
+        }
 
         iqbal.close();
     }
