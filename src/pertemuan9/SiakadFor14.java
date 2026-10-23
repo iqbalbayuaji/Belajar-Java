@@ -9,6 +9,8 @@ public class SiakadFor14 {
         double nilai;
         double tertinggi = 0;
         double terendah = 100;
+        int lulus = 0;
+        int tidakLulus = 0;
 
         for (int i = 1; i <= 12; i++) {
             System.out.print("Masukan nilai Mahasiswa ke-" + i + ": ");
@@ -19,9 +21,17 @@ public class SiakadFor14 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
+
+            if (nilai >= 60) {
+                lulus++;
+            } else {
+                tidakLulus++;
+            }
         }
 
         System.out.println("Nilai tertinggi : " + tertinggi);
         System.out.println("Nilai terendah : " + terendah);
+        System.out.println("Jumlah Mahasiswa lulus: " + lulus);
+        System.out.println("Jumlah Mahasiswa tidak lulus: " + tidakLulus);
     }
 }
