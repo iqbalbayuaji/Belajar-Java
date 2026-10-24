@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Tugas2_14",
+            "request": "launch",
+            "mainClass": "pertemuan9.Tugas2_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "DepotAir_14",
+            "request": "launch",
+            "mainClass": "kuis.kuis1.DepotAir_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Tugas14",
+            "request": "launch",
+            "mainClass": "pertemuan1.Tugas14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "latihan14",
+            "request": "launch",
+            "mainClass": "pertemuan1.latihan14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "myfirstjava14",
+            "request": "launch",
+            "mainClass": "pertemuan1.myfirstjava14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Bank14",
+            "request": "launch",
+            "mainClass": "pertemuan2.Bank14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator14",
+            "request": "launch",
+            "mainClass": "pertemuan2.ContohOperator14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData14",
+            "request": "launch",
+            "mainClass": "pertemuan2.ContohTipeData14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariable14",
+            "request": "launch",
+            "mainClass": "pertemuan2.ContohVariable14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Segitiga14",
+            "request": "launch",
+            "mainClass": "pertemuan2.Segitiga14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasus1_14",
+            "request": "launch",
+            "mainClass": "pertemuan2.StudiKasus1_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "StudiKasus2_14",
+            "request": "launch",
+            "mainClass": "pertemuan2.StudiKasus2_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator14(1)",
+            "request": "launch",
+            "mainClass": "pertemuan3.ContohOperator14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan14",
+            "request": "launch",
+            "mainClass": "pertemuan3.GajiKaryawan14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungLuasPersegiPanjang14",
+            "request": "launch",
+            "mainClass": "pertemuan3.MenghitungLuasPersegiPanjang14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "MenghitungTotalBayar14",
+            "request": "launch",
+            "mainClass": "pertemuan3.MenghitungTotalBayar14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1_14",
+            "request": "launch",
+            "mainClass": "pertemuan3.Tugas1_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2_14",
+            "request": "launch",
+            "mainClass": "pertemuan3.Tugas2_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanIfElse14",
+            "request": "launch",
+            "mainClass": "pertemuan5.PemilihanIfElse14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanSwitch14",
+            "request": "launch",
+            "mainClass": "pertemuan5.PemilihanSwitch14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1Pemilihan14",
+            "request": "launch",
+            "mainClass": "pertemuan5.Tugas1Pemilihan14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2_14(1)",
+            "request": "launch",
+            "mainClass": "pertemuan5.Tugas2_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "TugasAntrean14",
+            "request": "launch",
+            "mainClass": "pertemuan5.TugasAntrean14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "TugasParkir14",
+            "request": "launch",
+            "mainClass": "pertemuan5.TugasParkir14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "nestedAksesLab14",
+            "request": "launch",
+            "mainClass": "pertemuan6.nestedAksesLab14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "nestedUjianSkripsi14",
+            "request": "launch",
+            "mainClass": "pertemuan6.nestedUjianSkripsi14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "operatorLogikaWIFI14",
+            "request": "launch",
+            "mainClass": "pertemuan6.operatorLogikaWIFI14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "tugas1DiskonBuku",
+            "request": "launch",
+            "mainClass": "pertemuan6.tugas1DiskonBuku",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "tugas2SeleksiAsisten14",
+            "request": "launch",
+            "mainClass": "pertemuan6.tugas2SeleksiAsisten14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "studiKasus1_14",
+            "request": "launch",
+            "mainClass": "pertemuan7.studiKasus1_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "studiKasus2_14",
+            "request": "launch",
+            "mainClass": "pertemuan7.studiKasus2_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "KafeDoWhile14",
+            "request": "launch",
+            "mainClass": "pertemuan9.KafeDoWhile14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor14",
+            "request": "launch",
+            "mainClass": "pertemuan9.SiakadFor14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile14",
+            "request": "launch",
+            "mainClass": "pertemuan9.SiakadWhile14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1_14(1)",
+            "request": "launch",
+            "mainClass": "pertemuan9.Tugas1_14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "KolamRenang_14",
+            "request": "launch",
+            "mainClass": "uts.uts1.KolamRenang_14",
+            "projectName": "dasPro_8a6086dc"
+        }
+    ]
+}
