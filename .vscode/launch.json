@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Star14",
+            "request": "launch",
+            "mainClass": "pertemuan10.Star14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "pertemuan10.loop",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
             "name": "Tugas2_14",
             "request": "launch",
             "mainClass": "pertemuan9.Tugas2_14",
