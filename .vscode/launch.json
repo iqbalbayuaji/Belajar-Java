@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rectangle14",
+            "request": "launch",
+            "mainClass": "pertemuan10.Rectangle14",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
             "name": "Star14",
             "request": "launch",
             "mainClass": "pertemuan10.Star14",
