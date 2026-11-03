@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas114",
+            "request": "launch",
+            "mainClass": "pertemuan10.Tugas114",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
             "name": "NilaiKelompok14",
             "request": "launch",
             "mainClass": "pertemuan10.NilaiKelompok14",
