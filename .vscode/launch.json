@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tugas214",
+            "request": "launch",
+            "mainClass": "pertemuan10.Tugas214",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
             "name": "Tugas114",
             "request": "launch",
             "mainClass": "pertemuan10.Tugas114",
