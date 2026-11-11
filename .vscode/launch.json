@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tiket",
+            "request": "launch",
+            "mainClass": "latihan.tiket",
+            "projectName": "dasPro_8a6086dc"
+        },
+        {
+            "type": "java",
             "name": "Tugas314",
             "request": "launch",
             "mainClass": "pertemuan10.Tugas314",
