@@ -29,7 +29,7 @@ public class SearchNilai14 {
             }
         }
         if (!ditemukan) {
-            System.out.println("Nilai tidak ditemukan.");
+            System.out.println("Nilai " + key + " tidak ditemukan.");
         }
     }
 }
