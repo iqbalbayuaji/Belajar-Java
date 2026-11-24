@@ -7,6 +7,9 @@ public class ArrayNilai14 {
     Scanner iqbal = new Scanner(System.in);
         int[] nilaiAkhir = new int[10];
 
+        int totalLulus = 0;
+        int totalTdkLulus = 0;
+
         for (int i = 0; i < nilaiAkhir.length; i++) {
             System.out.print("Masukkan nilai mahasiswa ke-" + (i + 1) + ": ");
             nilaiAkhir[i] = iqbal.nextInt();
@@ -14,9 +17,16 @@ public class ArrayNilai14 {
 
         for (int i = 0; i < nilaiAkhir.length; i++) {
             String status = (nilaiAkhir[i] > 70) ? "LULUS" : "TIDAK LULUS";
+            System.out.println("Mahasiswa ke-" + (i + 1) + ": " + nilaiAkhir[i] + " (" + status + ")");
+            
             if (status.equalsIgnoreCase("lulus")) {
-                System.out.println("Mahasiswa ke-" + (i+1) + ": " + nilaiAkhir[i] + " " + status);
+                totalLulus++;
+            } else {
+                totalTdkLulus++;
             }
-        }        
+        }
+        
+        System.out.println("Jumlah mahasiswa lulus       : " + totalLulus);
+        System.out.println("Jumlah mahasiswa tidak lulus : " + totalTdkLulus);
     }
 }
